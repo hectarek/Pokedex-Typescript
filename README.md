@@ -1,4 +1,4 @@
-## Hector's Typescript Pokedex
+# Hector's Typescript Pokedex
 
-# Link - https://hectarek.github.io/Pokedex-Typescript/
+## Link - https://hectarek.github.io/Pokedex-Typescript/
 
